@@ -10,11 +10,11 @@ Step 3: Once you select the Diver option, it will ask about Driver data like Tra
 
 Step 4: Once you have successfully set up your account. A screen appears that will locate your real-time location on Google Maps. It will show you the nearby driver's location.
 
-Step5: After selecting any nearby driver, it will ask you to call or book a vehicle.
+Step 5: After selecting any nearby driver, it will ask you to call or book a vehicle.
 
-Step6: Click on the "Book vehicle button' to book your vehicle.
+Step 6: Click on the "Book vehicle button' to book your vehicle.
 
-Step7: You will get a confirmation once the driver approves your request ( If the driver accepts your request "APPROVED" status will be shown to you).
+Step 7: You will get a confirmation once the driver approves your request ( If the driver accepts your request "APPROVED" status will be shown to you).
 
 # Demonstration
 <a href="https://www.youtube.com/watch?v=ukczJs5LbMI" title="Demonstration">
