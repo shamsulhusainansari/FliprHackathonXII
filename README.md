@@ -1,4 +1,21 @@
 # FliprHackathonXII
+
+Step 1: Firstly, you need to install This app on your mobile phone.
+
+Step 2: After that, create an account using a phone number or email.
+
+Step 3: Once you have successfully set up your account. A screen appears That will show you two options. Whether you want to sign in as a driver or dealer.
+
+Step 3: Once you select the Diver option, it will ask about Driver data like Transporter name, Age, Experience, Truck Number, Capacity. 
+
+Step 4: Once you have successfully set up your account. A screen appears that will locate your real-time location on Google Maps. It will show you the nearby driver's location.
+
+Step5: After selecting any nearby driver, it will ask you to call or book a vehicle.
+
+Step6: Click on the "Book vehicle button' to book your vehicle.
+
+Step7: You will get a confirmation once the driver approves your request ( If the driver accepts your request "APPROVED" status will be shown to you).
+
 # Demonstration
 <a href="https://www.youtube.com/watch?v=ukczJs5LbMI" title="Demonstration">
   <p align="left">
