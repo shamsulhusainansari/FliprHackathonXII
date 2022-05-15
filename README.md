@@ -25,4 +25,5 @@ Step 7: You will get a confirmation once the driver approves your request ( If t
 
 <img width="95%" src="https://firebasestorage.googleapis.com/v0/b/no-mask.appspot.com/o/1.jpg?alt=media&token=0dccf48e-4c16-447d-baab-f9dfe41138b9" alt="Demo Video"/>
 <img width="95%" src="https://firebasestorage.googleapis.com/v0/b/no-mask.appspot.com/o/2.jpg?alt=media&token=ff52d0f7-0d23-48c8-adc9-589a5191a76d" alt="Demo Video"/>
+<img width="95%" src="https://github.com/shamsulhusainansari/FliprHackathonXII/blob/master/Certificate.jpg" alt="Certificate"/>
   
